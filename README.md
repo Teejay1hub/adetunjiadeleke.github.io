@@ -12,3 +12,16 @@
 **Dashboard Overview:**
 
 ![NHS](NHS.png)
+
+
+# Project 2
+
+**Title:** Powerbi Dashboard
+
+**Tools Used:** Microsoft Excel (Pivot Table, Pivot Chart, Slicers, Timelines, Power Query Editor)
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
