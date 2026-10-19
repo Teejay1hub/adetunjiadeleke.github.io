@@ -32,12 +32,14 @@ These findings demonstrate how interactive healthcare dashboards can support the
 
 # Project 2
 
-**Title:** Powerbi Dashboard
+**Title:** GLOBAL SUPER SALES POWERBI DASHOARD
 
-**Tools Used:** Microsoft Excel (Pivot Table, Pivot Chart, Slicers, Timelines, Power Query Editor)
+**Tools Used:** Microsoft Powerbi (Microsoft Excel, Pivot Chart, Slicers, Timelines, Power Query Editor)
 
 **Project Description:**
 
 **Key findings:**
 
 **Dashboard Overview:**
+
+![GlobalSales](GlobalSales.png)
