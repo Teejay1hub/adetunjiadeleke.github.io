@@ -36,10 +36,10 @@ These findings demonstrate how interactive healthcare dashboards can support the
 
 **Tools Used:** Microsoft Powerbi (Microsoft Excel, Pivot Chart, Slicers, Timelines, Power Query Editor)
 
-**Project Description:**
+**Project Description:** This project involves analysing the Global Superstore dataset using Microsoft Power BI to evaluate sales performance, profitability, operating costs, product demand and geographical performance. The dashboard presents key business metrics through interactive visualisations, enabling users to understand business performance, identify trends and make informed, data-driven decisions. Users can explore the data by filtering order dates, shipping modes and product sub-categories to gain deeper insights into different areas of the business.
 
-**Key findings:**
+**Key findings:** This project analysis the overall   performances of the business. It provides the activities of total sales, profit, operating costs and quantities sold, assisting to making a reasonable decision that will boast the business profitability. The profit trend visualisation shows how profitability changes over time, supporting the identification of periods of stronger or weaker financial performance. The sales-by-category chart enables comparisons between product categories and helps identify their contributions to overall revenue. The quantity-by-market visualisation provides insight into product demand across different markets, while the operating-cost-by-country chart supports the assessment of costs across geographical locations. The interactive filters also allow users to investigate specific periods, shipping methods and product sub-categories, making it easier to explore performance patterns and potential areas for improvement.
 
-**Dashboard Overview:**
+**Dashboard Overview:** This dashboard serves as a crucial tool for the  company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 ![GlobalSales](GlobalSales.png)
